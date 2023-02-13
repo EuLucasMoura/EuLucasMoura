@@ -1,4 +1,4 @@
-### Olá! Eu sou o Lucas Moura 👋
+### Olá! Eu sou o Lucas Moura, estudante de análise e desenvolvimento de sistemas. 👋
 - 🌱 Eu estou atualmente aprendendo Python. <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
  
