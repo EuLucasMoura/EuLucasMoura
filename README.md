@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Lucas Moura, estudante de análise e desenvolvimento de sistemas. 👋
-- 🌱 Eu estou atualmente aprendendo HTML5 e CSS. 
+- 🌱 Eu estou atualmente aprendendo Linguagem C e JavaScript. 
  
 <div>
 
