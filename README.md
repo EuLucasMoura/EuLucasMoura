@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Lucas Moura, estudante de análise e desenvolvimento de sistemas. 👋
-- 🌱 Eu estou atualmente aprendendo Java e JavaScript. 
+- 🌱 Eu estou atualmente aprendendo Java e Python. 
  
 <div>
 
