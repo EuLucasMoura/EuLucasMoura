@@ -1,5 +1,14 @@
-### Olá! Eu sou o Lucas Moura, estudante de análise e desenvolvimento de sistemas. 👋
-- 🌱 Eu estou atualmente aprendendo Python. 
+🔍 Estagiário em Análise de Dados | Prevenção a Fraudes | SQL, Power BI e Python 📊
+
+💡 Apaixonado por transformar dados em conhecimento estratégico! Atualmente, sou estagiário na área de Prevenção a Fraudes, utilizando SQL, Power BI, Python, Pandas e R para análise de padrões, detecção de anomalias e otimização de processos.
+
+📈 Experiência em extração, tratamento e visualização de dados, contribuindo para a criação de dashboards e relatórios que apoiam a tomada de decisão e a eficiência operacional.
+
+🛠️ Em constante aprendizado, aprimorando habilidades em modelagem de dados, estatística e machine learning. Busco desafios que me permitam explorar novas formas de gerar valor por meio da análise de dados.
+
+📚 Acredito na colaboração e no compartilhamento de conhecimento. Vamos conectar e trocar experiências sobre dados, tecnologia e inovação!
+
+#AnáliseDeDados #SQL #PowerBI #Python #Pandas #R #PrevençãoDeFraudes #DataScience
  
 <div>
 
