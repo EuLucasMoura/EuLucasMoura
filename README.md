@@ -8,7 +8,10 @@
 
 📚 Acredito na colaboração e no compartilhamento de conhecimento. Vamos conectar e trocar experiências sobre dados, tecnologia e inovação!
 
-#AnáliseDeDados #SQL #PowerBI #Python #Pandas #R #PrevençãoDeFraudes #DataScience
+
+
+
+
  
 <div>
 
